@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhabisya Raj Malakar</h1>
-<h3 align="center">Hey, I am emerging developer that loves research.</h3>
+<h3 align="center"></h3>
 
 - 📫 How to reach me **rmalakar798@gmail.com**
 
